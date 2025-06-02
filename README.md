@@ -1,4 +1,5 @@
 # Password Manager
+![Screenshot 2025-06-02 112758](https://github.com/user-attachments/assets/d04b34f2-2e3d-4ef0-970f-03d3051e710f)
 
 A simple command-line password manager built with Python, designed to securely store and manage your passwords locally.
 
