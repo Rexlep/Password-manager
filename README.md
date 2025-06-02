@@ -1,48 +1,48 @@
-Password Manager
+# Password Manager
 
 A simple command-line password manager built with Python, designed to securely store and manage your passwords locally.
-Features
 
-    Secure Storage: Stores passwords in a local file.
+## Features
 
-    Command-Line Interface: Easily add, retrieve, and manage passwords via the terminal.
+- **Secure Storage**: Stores passwords in a local file.
+- **Command-Line Interface**: Easily add, retrieve, and manage passwords via the terminal.
+- **Lightweight**: Minimal dependencies for quick setup and usage.
 
-    Lightweight: Minimal dependencies for quick setup and usage.
+## Installation
 
-Installation
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Rexlep/Password-manager.git
+   ```
 
-    Clone the repository:
+2. **Navigate to the project directory**:
+   ```bash
+   cd Password-manager
+   ```
 
-    git clone https://github.com/Rexlep/Password-manager.git
+3. **Run the application**:
+   ```bash
+   python main.py
+   ```
 
-    Navigate to the project directory:
-
-    cd Password-manager
-
-    Run the application:
-
-    python main.py
-
-Usage
+## Usage
 
 Upon running the application, follow the on-screen prompts to:
-GitHub
 
-    Add a new password
+- **Add a new password**
+- **Retrieve an existing password**
+- **Delete a password**
 
-    Retrieve an existing password
+Passwords are stored in the `Password.txt` file in the project directory.
 
-    Delete a password
-    Wikipedia+7GitHub+7Hacker News+7
+## Requirements
 
-Passwords are stored in the Password.txt file in the project directory.
-Requirements
+- Python 3.x
 
-    Python 3.x
-
-Contributing
+## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
